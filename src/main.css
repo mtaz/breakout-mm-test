@@ -298,17 +298,6 @@ div {
       width: 100%
     }
     
-    #openings {
-    	cursor:url(hero-superhero1-up.png), auto;
-    }
-    
-    #hero {
-    	display:none;
-    }
-
-
-
-
     #meltVideo {
       width: 100%;
       padding: 100px;

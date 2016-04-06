@@ -297,6 +297,14 @@ div {
       padding-left: 50px;
       width: 100%
     }
+    
+    #openings {
+    	cursor:url(hero-superhero1-up.png), auto;
+    }
+    
+    #hero {
+    	display:none;
+    }
 
 
 
